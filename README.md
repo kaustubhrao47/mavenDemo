@@ -22,7 +22,7 @@ Database: MySQL hosted on XAMPP Control Panel
   * Artificat Id:maven-archetype-webapp
   * Version: 1.4
 * Create java file and JUnit file. Copy paste all the codes as per below file structure. <br/>
-![alt text](https://github.com/kaustubhrao47/dynamicWebProjectJava/blob/master/file-structure-maven-demo.jpg?raw=true) <br/>
+![alt text](https://github.com/kaustubhrao47/mavenDemoJava/blob/master/file-structure-maven-demo.jpg?raw=true) <br/>
 * Edit "pom.xml" file to add dependencies provided in the Download Links.
 * Run "ValidationTest.java" as JUnit Test.
 * JUnit console will display the required results.
