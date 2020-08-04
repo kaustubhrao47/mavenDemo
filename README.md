@@ -11,7 +11,7 @@ Database: MySQL hosted on XAMPP Control Panel
 &nbsp;&nbsp; This repository contains practical implementation example for use of Maven and JUnit in java. <br/>
 
 ## Working
-&nbsp;&nbsp; 
+&nbsp;&nbsp; This project focuses on validating email id and mobile number using a Maven Project. By creating a maven project, you can add all libraries by inserting a code in "pom.xml" file under dependency tag. The test code has been added in a java file and a corresponding JUnit file is created to validate test cases against this file.
 
 ## Steps to run:
 * Open Eclipse IDE <br/>
