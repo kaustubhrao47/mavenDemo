@@ -5,7 +5,6 @@ IDE: Eclipse IDE for Enterprise Java Developers ; Version: 2020-06 (4.16.0) <br/
 JDK: 12 <br/>
 JRE: 1.8.0 <br/>
 Server: Apache Tomcat 8.5.57 <br/>
-Database: MySQL hosted on XAMPP Control Panel
 
 ## What is this?
 &nbsp;&nbsp; This repository contains practical implementation example for use of Maven and JUnit in java. <br/>
